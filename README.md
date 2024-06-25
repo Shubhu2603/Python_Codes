@@ -39,8 +39,8 @@ This repository contains a collection of Python scripts covering various concept
 
 ## Usage
 
-Each Python file can be run independently. To execute a script, use the following command in your terminal:
-
+Each Python file can be run independently. To execute a script, use the following command in your terminal:<br>
+`python filename.py`<br>
 Replace `filename.py` with the name of the script you want to run.
 
 ## Contributing
